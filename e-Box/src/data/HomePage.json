@@ -1,0 +1,109 @@
+{
+    "menu": ["Home", "Product", "Pricing", "Contact"],
+    "banners": [
+      {
+        "title": "GROCERIES DELIVERY",
+        "description": "We know how large objects will act, but things on a small scale.",
+        "buttonText": "Start Now",
+        "image": "/images/product-slide-1.jpg"
+      },
+      {
+        "title": "FAST DELIVERY",
+        "description": "Quick and reliable delivery to your doorstep",
+        "buttonText": "Order Now",
+        "image": "/images/product-slide-1.jpg"
+      },
+      {
+        "title": "SPECIAL OFFERS",
+        "description": "Get amazing discounts on your favorite products",
+        "buttonText": "Shop Now",
+        "image": "/images/product-slide-1.jpg"
+      }
+    ],
+    "products": [
+      {
+        "title": "Your Space",
+        "subtitle": "Unique Life",
+        "buttonText": "Explore Items",
+        "image": "/images/h5-baner-32.png"
+      },
+      {
+        "title": "Ends Today",
+        "subtitle": "Elements Style",
+        "buttonText": "Explore Items",
+        "image": "/images/h5-baner-2.png"
+      },
+      {
+        "title": "Ends Today",
+        "subtitle": "Elements Style",
+        "buttonText": "Explore Items",
+        "image": "/images/h5-baner-3.png"
+      }
+    ],
+    "categories": [
+      {
+        "title": "FURNITURE",
+        "itemCount": "5 Items",
+        "image": "/images/card-cover-5.jpg"
+      }
+    ],
+    "bestsellerProducts": {
+      "title": "BESTSELLER PRODUCTS",
+      "categories": ["Men", "Women", "Accessories"],
+      "items": [
+        {
+          "image": "/images/fixed-height.png",
+          "title": "Graphic Design",
+          "department": "English Department",
+          "originalPrice": "$16.48",
+          "salePrice": "$6.48"
+        },
+        {
+          "image": "/images/fixed-height1.png",
+          "title": "Graphic Design",
+          "department": "English Department",
+          "originalPrice": "$16.48",
+          "salePrice": "$6.48"
+        },
+        {
+          "image": "/images/fixed-height2.png",
+          "title": "Graphic Design",
+          "department": "English Department",
+          "originalPrice": "$16.48",
+          "salePrice": "$6.48"
+        }
+      ]
+    },
+    "mostPopular": {
+      "title": "MOST POPULAR",
+      "description": "We focus on ergonomics and meeting you where you work. It's only a keystroke away.",
+      "sections": [
+        {
+          "image": "/images/motor.png",
+          "title": "Fast Delivery",
+          "description": "Same day delivery for orders placed before 2 PM"
+        },
+        {
+          "image": "/images/fixed-meat.png",
+          "title": "English Department",
+          "sales": "15 Sales",
+          "price": "$16.48",
+          "salePrice": "$6.48",
+          "colors": ["#23A6F0", "#23856D", "#E77C40", "#252B42"]
+        }
+      ]
+    },
+    "categoriesShowcase": {
+      "title": "Featured Categories",
+      "description": "Shop our featured categories for the best deals",
+      "sections": [
+        { 
+          "image": "/images/candy-5.jpg",
+          "title": "FURNITURE",
+          "itemCount": "5 Items",
+          "backgroundColor": "rgba(255, 255, 255, 0.9)"
+        }
+      ]
+    }
+}
+  
